@@ -1,33 +1,19 @@
-# Lab Power BI
-
-Creacion de un informe en Power BI:
-
-Necesario:
-
-+ Portada + 3 páginas
-
-+ Pregunta realizada
-
-+ Storytelling
+#Dear reader,
 
 
-**Completar:**
-
-Pregunta:
+The following document summarises the sales performance over 3 dimensions grouped by countries:
 
 
-Intro:
+	- Unitary price
+	- Revenue
+	- Sold quantities
+
+The critical countries where one should act upon are highlighted.
+
+Kindly note that United Kingdom represents over 85% of the core business.
+Therefore, one should focus its strategy in other countries, in other to minimise risk and diversity portfolio.
 
 
-Nudo:
+Best regards,
 
-
-Desenlace:
-
-
-
-
-
-**Entregable:**
-
-PowerPoint del informe
+Francisco Freire
