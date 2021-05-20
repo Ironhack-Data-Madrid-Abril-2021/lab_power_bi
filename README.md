@@ -9,7 +9,7 @@ Can you asses the financial performance of Bank1 (Peruvian bank) during (2001-20
 
 
 **Intro:**
-Analysis of the evolution of key performance indicators (NII and efficiency ratio). The selected indicators give an overall picture of the bank financial statements status, before deeping down into the analysis. When doing the analysis we have to take into account that during 2008 tehre was a severe financial crisis, which directly impacted banks.
+Analysis of the evolution of key performance indicators (NII and efficiency ratio). The selected indicators give an overall picture of the bank financial statements status, before deeping down into the analysis. When doing the analysis we have to take into account that during 2008 there was a severe financial crisis, which directly impacted banks.
 
 
 **Nudo:**
